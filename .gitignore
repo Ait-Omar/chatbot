@@ -1,1 +1,3 @@
-/vertuaelnv
+/vertualenv
+.env
+__pycache__
